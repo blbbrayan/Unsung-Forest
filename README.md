@@ -5,7 +5,7 @@ I created this game using Byrd Engine, a few years ago. I thought it'd be a cool
 
 To run it, run the Frame file, or you can just run the built "Unsung Forest.jar" file.
 
-#### Challenges
+### Challenges
 This project was built in one week. Yup, one single week. With that comes some lazy lines of code.
 Byrd Engine is very OOP friendly, and I suggest making everything an Object. One difficulty for me
 was not making the GameUserInterface (gui) its own set of objects. This led to the play file being
